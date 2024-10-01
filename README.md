@@ -20,7 +20,8 @@
 - PDF to DOCX/DOC
   
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/d021b515-1002-4a3f-91e4-516cf445bed9" alt="Screenshot 2024-10-01 035541" width="230" height="330" style="border:2px solid lightblue;"/>
+
+<img src="https://github.com/user-attachments/assets/d021b515-1002-4a3f-91e4-516cf445bed9" alt="Screenshot 2024-10-01 035541" width="230" height="330" style="border:2 solid lightblue;"/>
 <img src="https://github.com/user-attachments/assets/7cf81030-7997-4405-a8e2-dc1020446a30" alt="Screenshot 2024-10-01 035548" width="230" height="330" style="border:2 solid lightblue;"/>
 <img src="https://github.com/user-attachments/assets/549c8caa-7978-4bdb-9238-6cb91331162c" alt="Screenshot 2024-10-01 035556" width="230" height="330" style="border:2 solid lightblue;"/> 
 <img src="https://github.com/user-attachments/assets/fdf1d693-c67b-4b75-89ab-c485d74f0445"  alt="Screenshot 2024-10-01 035603" width="230" height="330" style="border:2 solid lightblue;"/>      
