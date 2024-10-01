@@ -1,20 +1,68 @@
-<<<<<<< HEAD
-# To-Convert-
-=======
-" To Convert ! " app coded by Muhammet Salih Koca. This is a file converter application built using **Kivy** for the user interface, which allows conversion between multiple file formats. 
-The app supports: 
-JPEG to PDF
-JPEG to DOCX/DOC
-DOCX/DOC to PDF 
-DOCX/DOC to JPEG 
-PDF to JPEG  
-PDF to DOCX/DOC
+<br/>
+<div align="center">
+</a>
+<h3 align="center">To Convert !</h3>
+<p align="center">
+" To Convert ! " app coded by Muhammet Salih Koca.
+  
+</p>
+</div> 
 
-Prerequisites
-- **Kivy**: Used for building the user interface.
-- **PIL (Pillow)**: For handling image operations.
-- **pytesseract**: Optical character recognition (OCR) tool to convert images to text.
-- **docx (python-docx)**: For creating and manipulating Word documents.
-- **docx2pdf**: To convert DOCX/DOC files to PDF.
-- **pdf2docx**: To convert PDF files to DOCX.
-- **pdf2image**: To convert PDF files to JPEG images.
+## About The Project
+  This is a file converter application built using "Kivy" for the user interface, which allows conversion between multiple file formats. 
+
+ The app supports: 
+- JPEG to PDF
+- JPEG to DOCX/DOC
+- DOCX/DOC to PDF 
+- DOCX/DOC to JPEG 
+- PDF to JPEG  
+- PDF to DOCX/DOC
+
+## Requirements
+
+```sh
+pip install -r requirements.txt
+```
+
+
+## Tesseract Installation
+
+For Windows:
+
+```sh
+https://github.com/UB-Mannheim/tesseract/wiki
+```
+
+For macOS:
+
+```sh
+brew install tesseract
+```
+For Linux: 
+
+```sh
+sudo apt-get install tesseract-ocr
+```
+
+## Set Tesseract Path
+ 
+ Make sure to set the path for Tesseract in your Python script before using pytesseract.
+ 
+```sh
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+```
+
+## Running the Application
+
+To run the application, navigate to the project directory and execute:
+
+```sh
+python converter.py
+```
+
+The app window should open, and you can start converting files by selecting the appropriate options.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
