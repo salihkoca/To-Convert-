@@ -18,4 +18,3 @@ Prerequisites
 - **docx2pdf**: To convert DOCX/DOC files to PDF.
 - **pdf2docx**: To convert PDF files to DOCX.
 - **pdf2image**: To convert PDF files to JPEG images.
->>>>>>> b484147 (Initial commit)
